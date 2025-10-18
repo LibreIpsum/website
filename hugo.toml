@@ -49,6 +49,11 @@ style = "github-dark"
   icon = "fa-brands fa-github fa-2x"
   weight = 1
   url = "https://github.com/libreipsum/"
+[[params.social]]
+  name = "Email"
+  icon = "fa-regular fa-envelope fa-2x"
+  weight = 2
+  url = "mailto:contact@warnercloud.com"
 #[[params.social]]
 #  name = "Gitlab"
 #  icon = "fa-brands fa-gitlab fa-2x"
