@@ -17,10 +17,10 @@ style = "github-dark"
   info = "Video Production and Technology"
   description = "Andrew Warner's personal website"
   keywords = "blog,developer,personal"
-#  avatarurl = "images/avatar.jpg"
+  #avatarurl = "images/avatar.jpg"
   #gravatar = "john.doe@example.com"
 
-  faviconSVG = "/img/favicon.svg"
+  faviconSVG = "/images/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
