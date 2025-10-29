@@ -4,6 +4,8 @@ draft = false
 title = 'Contact'
 +++
 
+<!--TODO add a contact form-->
+
 Email me at [contact@warnercloud.net](contact@warnercloud.net)
 
 Find me on github: [github.com/libreipsum](https://github.com/libreipsum)
