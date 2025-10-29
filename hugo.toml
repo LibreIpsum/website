@@ -14,6 +14,7 @@ style = "github-dark"
 
 [params]
   author = "Andrew Warner"
+  email = "contact@warnercloud.net"
   info = "Video Production and Technology"
   description = "Andrew Warner's personal website"
   keywords = "blog,developer,personal"
