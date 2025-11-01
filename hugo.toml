@@ -54,7 +54,7 @@ style = "github-dark"
   name = "Email"
   icon = "fa-regular fa-envelope fa-2x"
   weight = 2
-  url = "mailto:contact@warnercloud.com"
+  url = "mailto:contact@warnercloud.net"
 #[[params.social]]
 #  name = "Gitlab"
 #  icon = "fa-brands fa-gitlab fa-2x"
