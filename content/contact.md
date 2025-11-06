@@ -6,6 +6,6 @@ title = 'Contact'
 
 <!--TODO add a contact form-->
 
-Email me at [{{< param "email" >}}](mailto:{{< param "email" >}})
+Email me at [contact@warnercloud.net](mailto:contact@warnercloud.net)
 
 Find me on github: [github.com/libreipsum](https://github.com/libreipsum)
