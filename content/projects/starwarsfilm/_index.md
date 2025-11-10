@@ -1,6 +1,6 @@
 +++
 date = '2025-10-04T22:38:42-04:00'
-draft = true
+draft = false
 title = 'Star Wars Fan Film'
 description = ""
 slug = ""
