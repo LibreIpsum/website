@@ -7,4 +7,4 @@ layout = "simple"
 
 Hi, my name is Andrew Warner.
 
-I am passionate about all forms of technology, particularly the technology behind modenr filmmaking.
+I am passionate about all forms of technology, particularly the technology behind modern filmmaking.

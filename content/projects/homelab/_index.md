@@ -6,4 +6,4 @@ authors = ["Andrew Warner"]
 tags = ["homelab", "self-hosting"]
 +++
 
-I run a small-ish homelab consisting of a nas, a proxmox server, and a raspberry pi. documentation for the hardware and software can be found below.
+I run a smallish homelab consisting of a NAS, a Proxmox server, and a Raspberry Pi. documentation for the hardware and software can be found below.

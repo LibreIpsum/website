@@ -9,4 +9,4 @@ layout = "simple"
 
 Email me at [contact@warnercloud.net](mailto:contact@warnercloud.net)
 
-Find me on github: [github.com/libreipsum](https://github.com/libreipsum)
+Find me on GitHub: [github.com/libreipsum](https://github.com/libreipsum)
