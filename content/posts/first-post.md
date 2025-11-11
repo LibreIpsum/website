@@ -1,6 +1,7 @@
 +++ 
 draft = false
 date = 2025-10-04T19:47:55-04:00
+lastmod = 2025-11-10T22:40:40-04:00
 title = "Hello World!"
 authors = ["Andrew Warner"]
 +++
