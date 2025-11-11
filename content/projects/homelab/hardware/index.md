@@ -19,6 +19,8 @@ I have since installed OpenMediaVault on an SSD and connected two 1TB laptop har
 
 The NAS has shared folders for my movie and photo collections, which are shared with my docker virtual machine for Jellyfin and Immich. It also holds ISO images and backups for Proxmox.
 
+![Image of my battered laptop](IMG_1048.JPG "My battered old laptop, now running Proxmox")
+
 ## Proxmox Server
 
 I have Proxmox running on my battered old gaming laptop. I got it for free from a local buy nothing group, and used it as a desktop replacement for about four years before I built my current pc. The hinges were broken when I got it, and it has slowly lost keys on the keyboard over time. The forward slash (`/`) key likes to randomly register key presses, so I keep the keyboard disabled.
@@ -30,6 +32,8 @@ This system replaced the Raspberry Pi, which has been repurposed as a dedicated 
 ## Raspberry Pi
 
 I have a Raspberry Pi 4b with 4gb of ram. For about a year, this was the entirety of my homelab, with multiple laptop hard drives connected through a USB hub. A couple of months ago I moved the NAS to the OptiPlex because I got a drive failure and wanted to set up some sort of redundancy. I just recently set up the Proxmox server to house my docker containers because I was running out of space on the 32GB microSD card, and because I wanted to have a separate virtual machine for public accessible services.
+
+![Image of my networking closet](IMG_1051.JPG "My 'networking closet' featuring a Raspberry Pi and a router acting as a switch")
 
 ## Networking
 
