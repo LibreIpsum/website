@@ -1,0 +1,9 @@
++++
+date = '2025-11-10T20:25:30-05:00'
+draft = true
+title = 'Homelab'
+authors = ["Andrew Warner"]
+tags = ["homelab", "self-hosting"]
++++
+
+I run a small-ish homelab consisting of a nas, a proxmox server, and a raspberry pi. documentation for the hardware and software can be found below.
