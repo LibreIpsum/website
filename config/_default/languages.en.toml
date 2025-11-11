@@ -14,7 +14,7 @@ title = "WarnerCloud"
 
 [params.author]
   name = "Andrew Warner"
-  image = "images/profile.png"
+  image = "images/user-profile.png"
   headline = "Video Production and Technology"
   # bio = "A little bit about you"
   links = [
