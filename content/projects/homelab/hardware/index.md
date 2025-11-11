@@ -4,6 +4,7 @@ draft = true
 title = 'Hardware Overview'
 authors = ["Andrew Warner"]
 tags = ["homelab", "hardware"]
+coverCaption = "My homelab, hidden under my desk"
 +++
 
 <!-- TODO add photos -->
