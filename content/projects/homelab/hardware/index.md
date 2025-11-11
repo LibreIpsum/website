@@ -8,7 +8,7 @@ tags = ["homelab", "hardware"]
 
 <!-- TODO add photos -->
 
-My homelab currently consists of three computing devices, and an unconventional networking setup. I have a NAS, a Proxmox server, and a Raspberry Pi. This has been built for nearly free over a couple of years.
+My homelab currently consists of three computing devices combined with an unconventional networking setup. I have a NAS, a Proxmox server, and a Raspberry Pi. This has been built for nearly free over a couple of years.
 
 ## NAS
 
@@ -20,7 +20,7 @@ The NAS has shared folders for my movie and photo collections, which are shared 
 
 ## Proxmox Server
 
-I have Proxmox running on my battered old gaming laptop. I got it for free from a local buy nothing group, and used it as a desktop replacement for about four years before I built my current pc. The hinges were broken when I got it, and it has slowly lost keys on the keyboard over time.
+I have Proxmox running on my battered old gaming laptop. I got it for free from a local buy nothing group, and used it as a desktop replacement for about four years before I built my current pc. The hinges were broken when I got it, and it has slowly lost keys on the keyboard over time. The forward slash (`/`) key likes to randomly register key presses, so I keep the keyboard disabled.
 
 The internal hardware is actually somewhat decent. The laptop has an i7-7700hq and a GTX 1050ti with 4gb of VRAM. Connected to that are 16gb of ram, a 128gb SATA m.2 SSD, and a 1TB SATA HDD.
 
