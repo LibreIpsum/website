@@ -37,4 +37,4 @@ I have a Raspberry Pi 4b with 4gb of ram. For about a year, this was the entiret
 
 ## Networking
 
-I have an unusual networking situation. Currently, Wi-Fi is provided by three Tp-Link deco devices, which also act as the router. One of these is connected to the cable modem, and another is connected to my homelab servers and desktop. Because each Deco only has three Ethernet ports, I have the old Linksys router acting as a switch for the homelab servers. Once I get a dedicated switch (waiting for holidays), the old router is going between the main Deco and the modem with OpenWrt to increase flexibility and security.
+My network stack consists of an old router running OpenWRT, connected to a TP-Link Deco mesh wifi system. Unfortunately, my homelab does not fit where the internet connection comes in, so It is connected wirelessly via one of the Deco access point.
