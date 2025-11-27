@@ -20,4 +20,4 @@ I considered making the Jedi's mission be to kill the Lars family (because they 
 
 The idea with this ending is that this short film could act as a pilot episode to make a series of the Jedi and Smuggler exploring the remote planet they discover and attempting to make their way home.
 
-I actually wrote this ending first before deciding on any of the story that would lead there. Most of the rest of the story has been driven by the need to get one or more characters in a malfunctioned hyperspace jump. I've even done some test shots of what it could look like.
+I actually wrote this ending first before deciding on any of the story that would lead to it. Most of the rest of the story has been driven by the need to get one or more characters in a malfunctioned hyperspace jump.
