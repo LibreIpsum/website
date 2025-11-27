@@ -7,8 +7,6 @@ tags = ["homelab", "hardware"]
 coverCaption = "My homelab, hidden under my desk"
 +++
 
-<!-- TODO add photos -->
-
 My homelab currently consists of three computing devices combined with an unconventional networking setup. I have a NAS, a Proxmox server, and a Raspberry Pi. This has been built for nearly free over a couple of years.
 
 ## NAS
@@ -31,10 +29,10 @@ This system replaced the Raspberry Pi, which has been repurposed as a dedicated 
 
 ## Raspberry Pi
 
-I have a Raspberry Pi 4b with 4gb of ram. For about a year, this was the entirety of my homelab, with multiple laptop hard drives connected through a USB hub. A couple of months ago I moved the NAS to the OptiPlex because I got a drive failure and wanted to set up some sort of redundancy. I just recently set up the Proxmox server to house my docker containers because I was running out of space on the 32GB microSD card, and because I wanted to have a separate virtual machine for public accessible services.
+I have a Raspberry Pi 4b with 4gb of ram. For about a year, this was the entirety of my homelab, with multiple laptop hard drives connected through a USB hub. A couple of months ago I moved the NAS to the OptiPlex because I got a drive failure and wanted to set up some sort of redundancy. I just recently set up the Proxmox server to house my docker containers because I was running out of space on the 32GB micro SD card, and because I wanted to have a separate virtual machine for public accessible services.
 
 ![Image of my networking closet](IMG_1051.JPG "My 'networking closet' featuring a Raspberry Pi and a router acting as a switch")
 
 ## Networking
 
-My network stack consists of an old router running OpenWRT, connected to a TP-Link Deco mesh wifi system. Unfortunately, my homelab does not fit where the internet connection comes in, so It is connected wirelessly via one of the Deco access point.
+My network stack consists of an old router running OpenWrt, connected to a TP-Link Deco mesh Wi-Fi system. Unfortunately, my homelab does not fit where the internet connection comes in, so it is connected wirelessly via one of the Deco access point.
