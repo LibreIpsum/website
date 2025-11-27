@@ -7,4 +7,4 @@ tags = ["homelab", "self-hosting"]
 showTableOfContents = false
 +++
 
-I run a smallish homelab consisting of a NAS, a Proxmox server, and a Raspberry Pi. documentation for the hardware and software can be found below.
+I run a small homelab consisting of various free devices. The articles in this section cover various aspects of its hardware and software.
