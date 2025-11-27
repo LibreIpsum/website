@@ -7,6 +7,8 @@ tags = ["homelab", "software"]
 coverCaption = "Metrics Dashboard"
 +++
 
+<!-- TODO add a software diagram -->
+
 ## Raspberry Pi
 
 This used to be my entire homelab, running multiple services on docker and acting as a NAS. Since upgrading, the Pi serves as a high-availability host a WireGuard VPN and DNS for the entire homelab. Previously, all of my containers ran on the Pi, but I have moved most of them to a virtual machine on my Proxmox host.
@@ -16,3 +18,5 @@ The Pi runs Raspberry Pi OS lite, with the Cockpit management interface. I have 
 ## NAS
 
 My OptiPlex NAS runs OpenMediaVault. The two disks are set up in a ZFS pool, which should allow me to more easily expand my storage in the future. I have NFS shares for movies, photos, and Proxmox backups. I also have a NAS folder shared over SMB.
+
+<!-- TODO cover proxmox -->
