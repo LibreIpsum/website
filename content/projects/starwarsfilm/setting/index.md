@@ -1,6 +1,7 @@
 +++
 date = '2025-11-26T13:56:15-05:00'
-draft = true
+publishDate = '2025-11-27T15:05:00-05:00'
+draft = false
 title = 'Setting'
 authors = ["Andrew Warner"]
 tags = ["Star Wars", "Filmmaking", "Star Wars Fan Film"]
