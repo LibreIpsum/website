@@ -4,6 +4,7 @@ draft = true
 title = 'Homelab'
 authors = ["Andrew Warner"]
 tags = ["homelab", "self-hosting"]
+showTableOfContents = false
 +++
 
 I run a smallish homelab consisting of a NAS, a Proxmox server, and a Raspberry Pi. documentation for the hardware and software can be found below.
