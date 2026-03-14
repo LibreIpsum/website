@@ -28,7 +28,7 @@ The package manager is the most important feature of a Linux distro. It comes fr
 
 For most people, an apt based disro is probably best. Apt comes from debian, and is used on the popular Ubuntu distribution. While it's packages are not up-to-date like dnf and pacman, they are much more stable. additionally, .deb downloadable packages or ppa repositories are commonly available for use.
 
-For developers, dnf, which was developed for Fedora, is likely best because its packages are up-to-date and fairly stable. However, dnf has fewer packages available because it contains only free/open-source software. This means that software such as nvidia drivers require enabling an external repository.
+For developers, dnf, which was developed for Fedora, is likely best because its packages are up-to-date and fairly stable. However, dnf has fewer packages available because it contains only free/open-source software. This means that software such as nvidia drivers require enabling the external rpm fusion repository. I have had problems installing software because fedora has versions of packages that don't inslude closed-source modules, requiring me to replace the installed version with the one from rpm fusion.
 
 For enthuseists and gamers, a distro with Pacman, is probably the best. Pacman has the most up-to-date packages, with a wide variety available. Pacman is used on Arch-based distros, which also have the Arch User Repository (aur) available. This is a repository of software maintained by users that expands the number of packages avaiable. the only downside is that aur packages are more difficult to install, and you need to watch out for out-of-date packages.
 
