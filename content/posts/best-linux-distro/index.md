@@ -32,7 +32,7 @@ For developers, dnf, which was developed for Fedora, is likely best because its 
 
 For enthuseists and gamers, a distro with Pacman, is probably the best. Pacman has the most up-to-date packages, with a wide variety available. Pacman is used on Arch-based distros, which also have the Arch User Repository (aur) available. This is a repository of software maintained by users that expands the number of packages avaiable. the only downside is that aur packages are more difficult to install, and you need to watch out for out-of-date packages.
 
-
+I have used all three package managers, and my preference is for pacman. I need updated software on my main pc, and dnf is missing too many packages. Additionally, pacman is somewhat faster at installing and updating packages than apt and dnf.
 
 ### Desktop Environments
 
