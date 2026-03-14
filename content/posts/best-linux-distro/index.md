@@ -38,4 +38,4 @@ I have used all three package managers, and my preference is for pacman. I need 
 
 <!-- Don't forget to add screenshots -->
 
-The desktop environment determines what a linux install looks like.
+The desktop environment determines what a linux install looks like. it includes details like the taskbar, applications menu and window decorations. Additionally, the desktop environment will include applications such as a file manager, text editor, and terminal emulator. The two most popular desktops are Gnome and KDE Plasma. Other options include Cinnamon, Xfce, and LXQT.
