@@ -39,3 +39,8 @@ I have used all three package managers, and my preference is for pacman. I need 
 <!-- Don't forget to add screenshots -->
 
 The desktop environment determines what a linux install looks like. it includes details like the taskbar, applications menu and window decorations. Additionally, the desktop environment will include applications such as a file manager, text editor, and terminal emulator. The two most popular desktops are Gnome and KDE Plasma. Other options include Cinnamon, Xfce, and LXQT.
+
+
+### Distro Software
+
+Most good Linux distros will include certian applications pre-installed (unless you use Arch, by the way), to make user's lives easier. This includes software such as web browsers, backup tools or printer drivers. additionally, developers will include custom software such as a front-end for the package manager, or a utility to install drivers, removing the need for the user to enter the terminal.
