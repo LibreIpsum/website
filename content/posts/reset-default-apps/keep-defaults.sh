@@ -7,7 +7,7 @@
 # This is useful, for example, if you need to install a second web browser without replacing your current one.
 
 # The first step is to make backups of the current default applications list.
-echo "Copying mimeinfo files"
+sudo echo "Copying mimeinfo files"
 sudo cp /usr/share/applications/mimeinfo.cache /tmp/mimeinfo.cache
 cp ~/.config/mimeapps.list /tmp/mimeapps.list
 
