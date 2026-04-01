@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#author     Andrew Warner
+
+
 # This script installs the applications listed in the arguments, but prevents them from registering themselves as the default application for any files.
 # This is useful, for example, if you need to install a second web browser without replacing your current one.
 
