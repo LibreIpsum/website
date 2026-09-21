@@ -3,7 +3,7 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "WarnerCloud"
+title = "Andrew Warner"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
@@ -40,7 +40,7 @@ title = "WarnerCloud"
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { kofi = "https://ko-fi.com/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
-  #   { linkedin = "https://linkedin.com/in/username" },
+    { linkedin = "https://linkedin.com/in/warnercloud" },
   #   { mastodon = "https://mastodon.instance/@username" },
   #   { medium = "https://medium.com/username" },
   #   { mendeley = "https://www.mendeley.com/" },
