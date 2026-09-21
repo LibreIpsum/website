@@ -7,6 +7,6 @@ layout = "simple"
 
 <!--TODO add a contact form-->
 
-Email me at [contact@warnercloud.net](mailto:contact@warnercloud.net)
-
-Find me on GitHub: [github.com/libreipsum](https://github.com/libreipsum)
+ - Email: [contact@warnercloud.net](mailto:contact@warnercloud.net)
+ - GitHub: [github.com/libreipsum](https://github.com/libreipsum)
+ - LinkedIn: [linkedin.com/in/warnercloud](https://linkedin.com/in/warnercloud)
