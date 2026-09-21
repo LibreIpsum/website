@@ -1,7 +1,7 @@
 +++
 date = '2026-09-21'
 lastMod = '2026-09-21'
-draft = true
+draft = false
 title = 'About Me'
 # layout = "simple"
 showAuthor = false
