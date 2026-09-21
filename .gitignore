@@ -5,3 +5,6 @@ hugo_build.lock
 
 # vscode workspace settings
 settings.json
+
+# local archive of old content
+.content-archive
