@@ -10,12 +10,12 @@ title = "Andrew Warner"
   dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
-  description = "Andrew Warner's Personal blog and portfolio"
+  description = "Andrew Warner's portfolio"
 
 [params.author]
   name = "Andrew Warner"
-  image = "images/user-profile.png"
-  headline = "Video Production and Technology"
+  image = "images/profile.JPG"
+  headline = "Software Developer"
   # bio = "A little bit about you"
   links = [
     { email = "mailto:contact@warnercloud.net" },
