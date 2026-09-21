@@ -4,6 +4,7 @@ lastMod = '2026-09-21'
 draft = true
 title = 'About Me'
 # layout = "simple"
+showAuthor = false
 +++
 
 
