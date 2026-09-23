@@ -52,5 +52,5 @@ Green Valley Book Fair - Mt. Crawford, VA
 : Maintained organized merchandise displays to enhance customer experience.
 
 ## EXTRACURICULARS
- - 01/2022-04/2024First Robotics Competition - Programmer
- - 08/2025-05/2026BRCC Stem Club – Project Lead
+ - 01/2022-04/2024: First Robotics Competition - Programmer
+ - 08/2025-05/2026: BRCC Stem Club – Project Lead
