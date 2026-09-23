@@ -2,7 +2,7 @@
 date = '2025-11-26T11:06:15-05:00'
 draft = false
 title = 'Privacy'
-layout = 'simple'
+showTableOfContents = false
 +++
 
 I care a lot about my own online privacy, and am therefore not willing to publish a site that infringes on other's privacy. I have taken steps to ensure that I am as respectful of your privacy as possible in developing this site.

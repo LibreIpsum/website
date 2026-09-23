@@ -3,8 +3,9 @@ date = '2026-09-21'
 lastMod = '2026-09-21'
 draft = false
 title = 'About Me'
-# layout = "simple"
+showTableOfContents = false
 showAuthor = false
+showDate = false
 +++
 
 
